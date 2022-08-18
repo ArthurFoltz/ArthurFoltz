@@ -5,8 +5,7 @@ Hi! My name is Arthur and I'm a Software Engineering student at PUCRS, Porto Ale
 <div align="center">
   <a href="https://github.com/ArthurFoltz">
     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=ArthurFoltz&count_private=true&include_all_commits=true&show_icons=true&theme=radical&hide_border=false&show_owner=true"/>
-    
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurFoltz&theme=radical&count_private=true&hide=html,css&hide_border=false&&layout=compact"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurFoltz&theme=radical&hide_border=false&&layout=compact"/>
   </a>
 </div>
 

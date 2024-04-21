@@ -1,6 +1,8 @@
 ### Arthur Foltz's profile 👋
 
-Hi! My name is Arthur and I'm a Software Engineering student at PUCRS, Porto Alegre, Brazil and a Software Development Intern at Dell. Here you'll find personal projects I made. I like programming in Java, however i'm always learning new things and open to new horizons !
+6th semester student of Software Engineering at PUCRS. Software Engineer at Dell.
+
+Java Developer in training with knowledge in: Programming logic, object-oriented programming (classes, objects, inheritance, encapsulation, Liskov Substitution Principle, abstraction, interfaces, method overriding and overloading), UML, POJO, data structures (arrays, lists, queues, stacks, sets, hash tables, binary trees), Collections API, exception handling, unit testing, and GIT.
 
 <div align="center">
   <a href="https://github.com/ArthurFoltz">

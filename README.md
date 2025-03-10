@@ -1,8 +1,27 @@
 ### Arthur Foltz's profile 👋
 
-6th semester student of Software Engineering at PUCRS. Software Engineer at Dell.
+I am a Software Engineer currently working at Dell Technologies and finishing my 8th and last semester of Software Engineering at PUCRS, passionate about technology, problem-solving, and continuous learning. I have experience developing automation tools and backend APIs using Java and Python, collaborating with international teams in Agile/Scrum environments. I enjoy working with people from different cultures, and I’m now seeking new opportunities to further develop my technical skills and contribute to challenging projects while collaborating with diverse teams. Outside of work, I love cats, going to the gym, watching series, traveling, and I’m a big fan of winter.
 
-Java Developer in training with knowledge in: Programming logic, object-oriented programming (classes, objects, inheritance, encapsulation, Liskov Substitution Principle, abstraction, interfaces, method overriding and overloading), UML, POJO, data structures (arrays, lists, queues, stacks, sets, hash tables, binary trees), Collections API, exception handling, unit testing, and GIT.
+Hard Skills
+
+Programming Languages: Java (Spring Boot, Spring Framework, Spring Web MVC, Spring Cloud), Python.
+Backend & APIs: REST APIs, JSON, YAML, Swagger, Alation API, ServiceNow API.
+Java Ecosystem: Collections API, Stream API, Java Collections Framework, Maven.
+Data Structures & Algorithms: Arrays, Lists, Queues, Stacks, Sets, Hash Tables, Binary Trees.
+Object-Oriented Programming (OOP) & Design Principles: Classes, Objects, Inheritance, Encapsulation, Abstraction, Interfaces, Method Overriding and Overloading, UML, POJO, Liskov Substitution Principle (LSP).
+Testing & Code Quality: JUnit, Unit Testing, SonarQube, Snyk, Test Automation, Exception Handling.
+DevOps & Version Control: Git, GitHub, GitLab CI/CD, Postman.
+Software Development Methodologies: Agile/Scrum, Software Development Lifecycle (SDLC), Quality of Software Code (Code Quality).
+
+Soft Skills
+
+Team collaboration with global teams (USA, India) in distributed and multicultural environments.
+Effective communication in English, participating in Scrum ceremonies and technical discussions.
+Problem-solving and analytical thinking for designing efficient and scalable solutions.
+Proactivity and self-management, delivering results under Agile methodologies.
+Adaptability and continuous learning, focusing on technical and interpersonal growth.
+Time management and organization to handle multiple priorities effectively.
+
 
 <div align="center">
   <a href="https://github.com/ArthurFoltz">

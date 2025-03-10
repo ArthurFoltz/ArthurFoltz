@@ -3,6 +3,7 @@
 I am a **Software Engineer** currently working at **Dell Technologies** and finishing my **8th and last semester of Software Engineering at PUCRS**, passionate about technology, problem-solving, and continuous learning.  
 
 I have experience developing **automation tools and backend APIs** using **Java and Python**, collaborating with international teams in **Agile/Scrum** environments.  
+
 I enjoy working with people from different cultures, and I’m now **seeking new opportunities** to further develop my technical skills and contribute to challenging projects while collaborating with diverse teams.  
 
 Outside of work, I love **cats**, **going to the gym**, **watching series**, **traveling**, and I’m a big fan of **winter**.  

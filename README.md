@@ -47,12 +47,29 @@ Outside of work, I love **cats**, **going to the gym**, **watching series**, **t
 
 ## 🚀 Tech Stack
 
-<div align="center" valign="top"><br>
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="C#" height="50" width="50" src="/photos/Csharp_Logo.png">
-  <img align="center" alt="Java" height="40" width="46" src="/photos/java_plain_wordmark_logo_icon_146457.png">
-  <img align="center" alt="github" height="30" width="30" src="/photos/github_logo_icon_147285.png">
-</div><br>
+<div align="center">
+  <!-- Java -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50" width="50" alt="Java" />
+  <!-- Python -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" width="50" alt="Python" />
+  <!-- Spring -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="50" width="50" alt="Spring Framework" />
+  <!-- Git -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" width="50" alt="Git" />
+  <!-- GitHub -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="50" width="50" alt="GitHub" />
+  <!-- GitLab -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="50" width="50" alt="GitLab" />
+  <!-- Postman -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="50" width="50" alt="Postman" />
+  <!-- Maven -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="50" width="50" alt="Maven (Apache)" />
+  <!-- YAML (representado por arquivos ou config genéricos) -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/filezilla/filezilla-plain.svg" height="50" width="50" alt="YAML (Generic Config Icon)" />
+  <!-- JUnit (não disponível em Devicon, substituído por Java/Test generic) -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" height="50" width="50" alt="JUnit (Java Wordmark as placeholder)" />
+</div>
+
 
 ---
 
